@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "identityapp1": {
+      "connectionInfo": "App registration: TestingAccount, Tenant: office-365.online (office-365.online - Microsoft Entra ID)",
+      "type": "identityapp.default"
+    }
+  }
+}
