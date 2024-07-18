@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/BillableTrackingApi
+/BillableTrackingApi/bin/Debug/net8.0
+/BillableTrackingApi/obj
